@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-// import Card from "react-bootstrap/Card";
+import Card from "react-bootstrap/Card";
 // import { projectData } from "../../data_sources/data_sources";
 
 function Contact() {
@@ -37,6 +37,20 @@ function Contact() {
           </div>
         </div>
       </div>
+      <Card className="card text-white bg-dark mb-3">
+  <Card.Header><h3>Resume</h3></Card.Header>
+  <Card.Body>
+    <blockquote className="blockquote mb-0">
+      <p>
+        {' '}
+        Coming Very Soon. Work in Progress{' '}
+      </p>
+      <footer className="blockquote-footer">
+        Thank you for your interest <cite title="Source Title">- Travis Miller</cite>
+      </footer>
+    </blockquote>
+  </Card.Body>
+</Card>
     </main>
   );
 }

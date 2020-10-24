@@ -4,6 +4,8 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Nav from "./components/Nav";
+import Footer from "./components/Footer"
+
 function App() {
   return (
     <Router>
@@ -19,7 +21,9 @@ function App() {
           <Contact />
         </Route>
       </Switch>
+      <Footer/>
     </Router>
+
   );
 }
 
