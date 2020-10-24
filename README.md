@@ -24,7 +24,9 @@ In this portfolio you will find:
   while utilizing Boostrap's Card Columns system on the portfolio.html page.
   
 *A sticky footer was made using the class="fixed-bottom" borrowed from Bootstrap navbar settings.
-
+![About](https://github.com/bigchsta62/portfolio-v3/blob/master/public/images/about.jpg?raw=true)
+![Projects](https://github.com/bigchsta62/portfolio-v3/blob/master/public/images/projects.jpg?raw=true)
+![Contact](https://github.com/bigchsta62/portfolio-v3/blob/master/public/images/contact.jpg?raw=true)
 * GitHub repository with README describing the project
 
 ### Link to portfolio
