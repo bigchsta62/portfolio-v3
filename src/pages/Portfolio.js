@@ -24,13 +24,15 @@ function ControlledCarousel() {
             <img className="img-fluid" src={data.image} alt="First slide" />
             <Carousel.Caption>
               <footer>
-                <button
-                  className="btn btn-secondary"
-                  href={data.url}
-                  target="_blank"
-                >
-                  <h3>See Deployment</h3>
-                </button>
+                <a href={data.url} target="_blank">
+                  <button
+                    className="btn btn-secondary"
+                    href={data.url}
+                    target="_blank"
+                  >
+                    <h3>See Deployment</h3>
+                  </button>
+                </a>
               </footer>
             </Carousel.Caption>
           </Carousel.Item>
