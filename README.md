@@ -30,6 +30,4 @@ In this portfolio you will find:
 * GitHub repository with README describing the project
 
 ### Link to portfolio
-https://bigchsta62.github.io/Portfolio/index.html
-
-* All pages, both HTML and CSS were validated using W3Schools https://validator.w3.org/nu/#textarea
+https://portfolio-8675309.herokuapp.com/
