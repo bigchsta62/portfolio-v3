@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Nav />
       <Switch>
-        <Route exact path={"/"}>
+        <Route exact path={"/portfolio-v3/"}>
           <About />
         </Route>
         <Route exact path="/portfolio">
