@@ -30,5 +30,4 @@ function About() {
     </main>
   );
 }
-
 export default About;
