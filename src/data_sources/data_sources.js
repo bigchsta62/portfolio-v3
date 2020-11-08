@@ -1,39 +1,39 @@
 export const projectData = [
   {
     name: "Good Burger",
-    image: "../images/good_burger.jpg",
+    image: "./images/good_burger.jpg",
     url: "https://goodburger1.herokuapp.com/",
     about:
       "Welcome to Good Burger, home of the Good Burger! Can I take your order?",
   },
   {
     name: "Weather App",
-    image: "../images/project_1.jpg",
+    image: "./images/project_1.jpg",
     url: "https://bigchsta62.github.io/notFakeNewsAndWeather/",
     about:
       "Welcome to Good Burger, home of the Good Burger! Can I take your order?",
   },
   {
     name: "Git Eatz",
-    image: "../images/git_eatz.jpg?",
+    image: "./images/git_eatz.jpg?",
     url: "https://giteatz2020.herokuapp.com/",
     about: "This is a grocery/recipe app",
   },
   {
     name: "Template Engine",
-    image: "../images//template_engine.jpg",
+    image: "./images//template_engine.jpg",
     url: "https://github.com/bigchsta62/templateEngine",
     about: "",
   },
   {
     name: "Note Taker",
-    image: "../images//Note%20taker%201.jpg",
+    image: "./images//Note%20taker%201.jpg",
     url: "https://take-more-notes.herokuapp.com/",
     about: "",
   },
   {
     name: "Team Tracker",
-    image: "../images//main%20team.jpg",
+    image: "./images//main%20team.jpg",
     url: "https://github.com/bigchsta62/teamTracker",
     about: "",
   },
