@@ -10,7 +10,7 @@ function About() {
         <div className="card text-white mb-3">
           <img
             className="card-img-top"
-            src="../images/IMG_3146.jpg"
+            src="./images/IMG_3146.jpg"
             alt="Travis wearing a Phoenix Suns hat"
             id="img1"
           />
