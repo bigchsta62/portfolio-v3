@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Link from "react-router-dom/Link";
 import Carousel from "react-bootstrap/Carousel";
 import { projectData } from "../data_sources/data_sources";
 import "./style.css";
