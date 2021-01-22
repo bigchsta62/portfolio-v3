@@ -31,15 +31,11 @@ export default function ControlledCarousel() {
             <Carousel.Caption>
               <footer>
                 <BounceInDiv>
-                  <Link href={data.url} target="_blank">
-                    <button
-                      className="btn btn-secondary"
-                      href={data.url}
-                      target="_blank"
-                    >
+                  <button className="btn btn-secondary">
+                    <a href={data.url} target="_blank">
                       <h3>See Deployment</h3>
-                    </button>
-                  </Link>
+                    </a>
+                  </button>
                 </BounceInDiv>
               </footer>
             </Carousel.Caption>
