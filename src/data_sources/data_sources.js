@@ -14,6 +14,12 @@ export const projectData = [
       "Welcome to Good Burger, home of the Good Burger! Can I take your order?",
   },
   {
+    name: "Eco Front",
+    image: "./images/EcoFront.jpg?",
+    url: "https://ecofront777.herokuapp.com/",
+    about: "This is an ecommerce app",
+  },
+  {
     name: "Git Eatz",
     image: "./images/git_eatz.jpg?",
     url: "https://giteatz2020.herokuapp.com/",
@@ -41,14 +47,9 @@ export const projectData = [
 
 export const socialData = [
   {
-    name: "Faceboook",
-    icon: "fa fa-facebook",
-    url: "https://www.facebook.com/travis.miller.587268",
-  },
-  {
-    name: "email",
-    icon: "fa fa-envelope",
-    url: "mailto:bigchsta62@gmail.com",
+    name: "LinkedIN",
+    icon: "fa fa-linkedin",
+    url: "https://www.linkedin.com/in/travis-miller-726451137/",
   },
   {
     name: "github",
@@ -56,9 +57,15 @@ export const socialData = [
     url: "https://github.com/bigchsta62",
   },
   {
-    name: "LinkedIN",
-    icon: "fa fa-linkedin",
-    url: "https://www.linkedin.com/in/travis-miller-726451137/",
+    name: "email",
+    icon: "fa fa-envelope",
+    url: "mailto:bigchsta62@gmail.com",
+  },
+
+  {
+    name: "Faceboook",
+    icon: "fa fa-facebook",
+    url: "https://www.facebook.com/travis.miller.587268",
   },
 ];
 

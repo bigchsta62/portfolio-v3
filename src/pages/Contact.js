@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import Card from "react-bootstrap/Card";
 // import { projectData } from "../../data_sources/data_sources";
-
+// import Travis_Miller from "../files"
 function Contact() {
   return (
     <main>
@@ -38,19 +38,24 @@ function Contact() {
         </div>
       </div>
       <Card className="card text-white bg-dark mb-3">
-  <Card.Header><h3>Resume</h3></Card.Header>
-  <Card.Body>
-    <blockquote className="blockquote mb-0">
-      <p>
-        {' '}
-        Coming Very Soon. Work in Progress{' '}
-      </p>
-      <footer className="blockquote-footer">
-        Thank you for your interest <cite title="Source Title">- Travis Miller</cite>
-      </footer>
-    </blockquote>
-  </Card.Body>
-</Card>
+        <Card.Header>
+          <h3>Resume</h3>
+        </Card.Header>
+        <Card.Body>
+          <blockquote className="blockquote mb-0">
+            <embed
+              src="files/Travis_Miller.pdf#toolbar=1&navpanes=0&scrollbar=0"
+              type="application/pdf"
+              width="100%"
+              height="600px"
+            />
+            <footer className="blockquote-footer">
+              Thank you for your interest{" "}
+              <cite title="Source Title">- Travis Miller</cite>
+            </footer>
+          </blockquote>
+        </Card.Body>
+      </Card>
     </main>
   );
 }

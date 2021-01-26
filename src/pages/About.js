@@ -6,7 +6,7 @@ import "./style.css";
 function About() {
   return (
     <main>
-      <div className="col-lg-7 card">
+      <div className="col-lg-6 card">
         <div className="card text-white mb-3">
           <img
             className="card-img-top"
@@ -17,12 +17,11 @@ function About() {
           <div className="row no-gutters">
             <h5 className="card-title">About Me</h5>
             <p className="card-text">
-              Hello, My name is Travis Miller. I am an aspiring web developer,
-              from Chandler, AZ. I have been married to the love of my life,
-              Ashtyn, for 14 years. We have 4 awesome kids, Greylon, Sawyer,
-              McKinley, and most recently Atlas. We homeschool, love to go on
-              random adventures, and are passionate about helping the
-              commmunity.
+              Hello, My name is Travis Miller. I am a self driven, Full Stack
+              (MERN) Certified Developer from The University of Arizona's Full
+              Stack Coding Bootcamp, with a passion for clean, beautiful code.
+              A natural problem solver. My desire is to write world class code that has
+              a positive impact.
             </p>
           </div>
         </div>

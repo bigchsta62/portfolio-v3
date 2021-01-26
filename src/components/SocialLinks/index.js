@@ -3,7 +3,7 @@ import { socialData } from "../../data_sources/data_sources";
 
 function SocialLinks() {
 return(
-    <div className="container-flex">
+    <div className="social float-right">
           {socialData.map((data, key) => (
             <a
               key={key}

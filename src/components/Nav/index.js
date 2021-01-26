@@ -27,8 +27,10 @@ function Nav() {
           <ul className="navbar-nav mr-auto">
             <PageLinks />
           </ul>
+          <span className="navbar-text">
+
+          </span>
           <SocialLinks />
-          <span className="navbar-text"></span>
         </div>
       </nav>
     </div>
