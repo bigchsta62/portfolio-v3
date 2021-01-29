@@ -1,6 +1,8 @@
 # Portfolio V3
 This is Portfolio V3, and was built using REACT.
 
+### Link to portfolio
+https://bigchsta62.github.io/portfolio-v3/portfolio
 
 In this portfolio you will find:
 
@@ -29,5 +31,4 @@ In this portfolio you will find:
 ![Contact](https://github.com/bigchsta62/portfolio-v3/blob/master/public/images/contact.jpg?raw=true)
 * GitHub repository with README describing the project
 
-### Link to portfolio
-https://portfolio-8675309.herokuapp.com/
+
