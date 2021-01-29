@@ -31,7 +31,7 @@ export default function ControlledCarousel() {
               <footer>
                 <BounceInDiv>
                   <button className="btn btn-secondary">
-                    <a href={data.url} target="_blank">
+                    <a href={data.url} target="_new">
                       <h3>See Deployment</h3>
                     </a>
                   </button>

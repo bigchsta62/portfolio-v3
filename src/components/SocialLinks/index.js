@@ -9,7 +9,7 @@ return(
               key={key}
               href={data.url}
               className={data.icon}
-              target="_blank"
+              target="_new"
             ></a>
           ))}
         </div>
