@@ -2,7 +2,7 @@
 This is Portfolio V3, and was built using REACT.
 
 ### Link to portfolio
-https://bigchsta62.github.io/portfolio-v3/portfolio
+https://bigchsta62.github.io/portfolio-v3/
 
 In this portfolio you will find:
 
