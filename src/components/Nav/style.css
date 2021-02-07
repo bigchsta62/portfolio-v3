@@ -1,0 +1,44 @@
+
+a {
+  margin-top: 3px;
+  margin-left: 7px;
+  margin-right: 7px;
+  float: left;
+}
+
+.bg-custom {
+  background-color: rgb(29, 17, 96);
+}
+
+.social{
+  margin-left: -5px;
+}
+#linkedin {
+  font-size: 48px;
+  color: #0e76a8;
+}
+#linkedin:hover {
+  color: #084f70;
+}
+
+#github {
+  font-size: 48px;
+  color: #d73a49;
+}
+#github:hover {
+  color: #8a242e;
+}
+#email {
+  font-size: 48px;
+  color: #525252;
+}
+#email:hover {
+  color: #3d3d3d;
+}
+
+.fa {
+  padding-left: 5px;
+  padding-right: 5px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
